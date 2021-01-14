@@ -49,13 +49,13 @@ class Toolbar extends Component {
           id={!isRunning ? "generateArray" : "generateArrayX"}
           style={{color: color, cursor: cursor}}
           onClick={!isRunning ? () => generateArray(array.length) : null}>
-          Generate New Array
+          New Array
         </div>
         <div className="separator"></div>
         <div
           id="arraySize"
           style={{color: color}}>
-          Change Array Size & Sorting Speed
+          Array Size & Speed
         </div>
         <input
           id="changeSize"
@@ -92,7 +92,7 @@ class Toolbar extends Component {
             id="sort"
             style={{color: color, cursor: cursor}}
             onClick={!isRunning ? () => sort(algorithm, array, speed) : null}>
-            Sort!
+            LET'S FUCKING GO!
           </div> : null
         }
       </div>
