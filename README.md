@@ -20,13 +20,13 @@
 ## About
 A web application to visualize some sorting algorithms must be learned if you study in Vietnam National University at "Data Structures and Algorithms" (Cấu trúc dữ liệu và Giải thuật).
 
-
-![Demo](demo.png)
-
 ## Instruction
     1. Generate a new array if you want
+
     2. Change the size of array and speed of sorting
+
     3. Choose sorting algorithms to visualize
+
     4. LET'S FUCKING GO!!!
 
 ## Find me around the web 🌎:
